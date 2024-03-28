@@ -12,7 +12,7 @@
 This code was written to create a more effective way to play .wav files using PiFmRds
 through the shell. Recently found out this may be a less-functional version of
 morrolinux's mpradio here: https://github.com/morrolinux/mpradio
-I still had a great time building this and am open to any suggestions.
+I still had a great time building this, and learned a lot from the experience.
 
 This is not under active development, but I may come back to this from time to time.
 
